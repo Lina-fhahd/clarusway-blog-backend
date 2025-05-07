@@ -39,15 +39,15 @@ This project demonstrates deploying a full MERN (MongoDB, Express, React, Node.j
 
 ## Screenshots
 
-| Step | Screenshot | Description |
-|------|------------|-------------|
-| 1️⃣ | ![Frontend](./assets/frontend_s3_website.png) | Frontend S3 website working (`Hello from Clarusway Blog Frontend`) |
-| 2️⃣ | ![EC2](./assets/ec2_server_running.png) | Server running on EC2 (`port 5000`) |
-| 3️⃣ | ![MongoDB Connected](./assets/mongodb_connected.png) | MongoDB connection successful |
-| 4️⃣ | ![MongoDB IP](./assets/mongodb_atlas_ip_access.png) | MongoDB Atlas IP Access List showing `0.0.0.0/0` |
-| 5️⃣ | ![Media Image](https://lina-blogapp-media.s3.eu-north-1.amazonaws.com/OIP.jpg) | Public media image from S3 |
-| 6️⃣ | ![Bucket Policy](./assets/s3_bucket_policy.png) | S3 media bucket policy showing public access enabled |
-| 7️⃣ | ![Static Hosting](./assets/s3_static_hosting.png) | S3 static website hosting configuration |
+| Step || Description |
+|------||-------------|
+| 1️⃣ | ![Frontend] | Frontend S3 website working (`Hello from Clarusway Blog Frontend`) |
+| 2️⃣ | ![EC2] | Server running on EC2 (`port 5000`) |
+| 3️⃣ | ![MongoDB Connected] | MongoDB connection successful |
+| 4️⃣ | ![MongoDB IP] | MongoDB Atlas IP Access List showing `0.0.0.0/0` |
+| 5️⃣ | ![Media Image] | Public media image from S3 |
+| 6️⃣ | ![Bucket Policy] | S3 media bucket policy showing public access enabled |
+| 7️⃣ | ![Static Hosting] | S3 static website hosting configuration |
 
 ---
 
